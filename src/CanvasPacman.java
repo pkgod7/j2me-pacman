@@ -34,7 +34,7 @@ public class CanvasPacman extends GameCanvas implements Runnable
     public int tx9,ty9;
     public Image x10;
     public int tx10,ty10;
-    public Image x11;
+    public Image x11; 
     public int tx11,ty11;
     public Image x12;
     public int tx12,ty12;
