@@ -1,5 +1,5 @@
 import javax.microedition.lcdui.Display;
-import javax.microedition.midlet.*;
+import javax.microedition.midlet.*; 
 public class MyMidlet extends MIDlet
 {
     public CanvasPacman c1;
