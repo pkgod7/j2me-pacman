@@ -1,6 +1,6 @@
 j2me-pacman
 ===========
 
-How to use? (Recommend Netbeans 7.4 IDE)
+How to use?
 
 1 - Run MyMidlet.java
